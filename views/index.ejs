@@ -1,0 +1,9 @@
+<h1>Welcome to ejs</h1>
+
+<p><%= dataVariable.pencilcase.name %></p>
+
+<ul>
+<% for(var i=0; i<dataVariable.items.length; i++) {%>
+   <li><%= dataVariable.items[i].type %> (<%= dataVariable.items[i].usefulness %>)</li>
+<% } %>
+</ul>

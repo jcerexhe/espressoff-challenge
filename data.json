@@ -1,0 +1,26 @@
+{
+	"pencilcase": {
+		"name": "Jamie's Pencilcase",
+		"size": "large"
+	},
+	"items": [
+		{
+			"id": 1,
+			"type": "pen",
+			"usefulness": 10
+		},
+		{
+			"id": 2,
+			"type": "ruler",
+			"usefulness": 3
+		},
+		{
+			"id": 3,
+			"type": "sharpner",
+			"usefulness": 2
+		}
+	]
+}
+
+
+

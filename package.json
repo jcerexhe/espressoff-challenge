@@ -1,0 +1,16 @@
+{
+  "name": "espressoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Jamie Cerexhe",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "path": "^0.12.7"
+  }
+}
